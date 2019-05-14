@@ -1,6 +1,6 @@
 # These ARE the Angular tips you are looking for
 
-### John Papa | ng-conf | 2019 | [YouTube](https://youtu.be/2ZFgcTOcnUg)
+#### John Papa | ng-conf | 2019 | [YouTube](https://youtu.be/2ZFgcTOcnUg)
 
 
 
